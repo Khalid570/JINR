@@ -1,2 +1,2 @@
 # multiplicities-angles-distribution
-This repository follows the analysis of chapter 4 in this report: https://drive.google.com/drive/folders/1tfdjelHIKcIzsss20fQ8swOOr6klUFXL
+This directory follows the analysis of chapter 4 in the report. To run the python scripts, just run them without extra arguments. 
