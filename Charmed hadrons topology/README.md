@@ -9,3 +9,7 @@ The decay topology analysis is represnted by,
 
 
 Chapter 3 of this report: (https://drive.google.com/drive/folders/1tfdjelHIKcIzsss20fQ8swOOr6klUFXL) is devoted to this analysis. 
+
+# How to use
+
+Run the python scripts without any arguments. ROOT and numpy need to be installed first. 
